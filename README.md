@@ -33,8 +33,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Rspec, Jasmine, Mocha
 
 #### Kingston University (September 2014 to January 2016)
-- MA Communication Design & the Creative Economy
-- with Distinction
+*MA Communication Design & the Creative Economy*
+*with Distinction*
 - Main Topics:
   - Creative Economy
   - Design Thinking
@@ -45,8 +45,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - Designing Research
 
 #### Università degli Studi di Siena (September 2005 to July 2010)
-- BA Communication Sciences
-- 106/110
+*BA Communication Sciences*
+*106/110*
 - Main Topics:
   - Social and Behavioural sciences;
   - Semiotics
@@ -59,11 +59,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Unlimited Lab LTD** London, UK (June 2016 to Present)    
-*Founder and MD*  
-**Togada Studio** London, UK (January 2016 to June 2016)   
+**Unlimited Lab LTD**
+London, UK (June 2016 to Present)    
+*Founder and MD*
+
+**Togada Studio**
+London, UK (January 2016 to June 2016)   
 *Head of Digital and UX*
-**Designer and Project Manager** Padua, Italy | Shanghai, China | London, UK (February 2013 to January 2016)    
+
+**Designer and Project Manager**
+Padua, Italy | Shanghai, China | London, UK (February 2013 to January 2016)    
 *Freelancer*  
-**Togada Studio** London, UK (January 2016 to June 2016)   
-*Head of Digital and UX*
+
+**yousporty.com** Padua, Italy (July 2011 to February 2013)   
+*Web Marketing Assistant*
