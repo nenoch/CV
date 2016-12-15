@@ -1,4 +1,4 @@
-## Your Name
+## Irene Canuti
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2016 to March 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Kingston University (September 2014 to January 2016)
+- MA Communication Design & the Creative Economy
+- with Distinction
+- Main Topics:
+  - Creative Economy
+  - Design Thinking
+  - Lean Startup
+  - Human Centered Design
+  - Re-imagining Leadership
+  - Conducting collaborative creativity
+  - Designing Research
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Università degli Studi di Siena (September 2005 to July 2010)
+- BA Communication Sciences
+- 106/110
+- Main Topics:
+  - Social and Behavioural sciences;
+  - Semiotics
+  - Linguistics
+  - Cultural Economics
+  - New media
+  - Marketing
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Unlimited Lab LTD** London, UK (June 2016 to Present)    
+*Founder and MD*  
+**Togada Studio** London, UK (January 2016 to June 2016)   
+*Head of Digital and UX*
+**Designer and Project Manager** Padua, Italy | Shanghai, China | London, UK (February 2013 to January 2016)    
+*Freelancer*  
+**Togada Studio** London, UK (January 2016 to June 2016)   
+*Head of Digital and UX*
