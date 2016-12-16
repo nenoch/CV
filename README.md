@@ -49,7 +49,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-## Experience
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Professional Experience
 
 **Unlimited Lab LTD**     
 London, UK (June 2016 to Present)    
@@ -70,15 +77,6 @@ Padua, Italy (July 2011 to February 2013)
 **Thisisiconic**   
 London, UK (February 2011 to June 2011)   
 *Media Planning*   
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -131,6 +129,9 @@ Technology, Making, Internet of Things, Meditation & Yoga, Circular Economy & Ze
 
 ## Contacts
 
-**linkedIn | ** uk.linkedin.com/in/irenecanuti/en   
-**twitter | ** @irenecanuti_tro   
-**email | ** irene@unlab.co.uk
+**linkedIn | [uk.linkedin.com/in/irenecanuti/en](https://uk.linkedin.com/in/irenecanuti/en
+)**   
+**twitter | [@irenecanuti_tro ](https://twitter.com/irenecanuti_tro
+)**   
+**email |  [irene@unlab.co.uk](mailto:irene@unlab.co.uk
+)**
