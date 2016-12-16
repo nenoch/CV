@@ -1,24 +1,38 @@
 ## Irene Canuti
 
 After years working  as a Project Manager - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker.   
-I like making things real, from ideation to implementation. I love graphic design and coding, product design, 3D printing, playing with hardware and DIY projects, but also project management, business and iterative development.   
+I like making things real, from ideation to implementation. I like telling stories, and I love visual and product design, coding, hardware and 3D printing, but also project management and iterative development.   
 
-I am a traveler and I lived and worked in Italy, China and UK.   
+Internet has always been my natural environment. The digital world is a place where one can build and see ideas grow and spread quickly. I started my own business because I believe it is possible to bring the same flexibility offline and make an impact.
 
-Internet has always been my natural environment. A place where one can build and see ideas grow and spread quickly.
-
-I feel comfortable with uncertainty because is raw material, everything is possible.
-
-I started my own business because I want to make an impact
-It only takes a adaptivity, strategy, intuition and great motivation.
-
-I am looking for innovative and interesting projects and amazing teams to collaborate with. An environment where I will never stop learning and be surprised.
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I love traveling, I lived and worked in Italy, China and UK meeting many inspiring individuals. I am looking for innovative and interesting projects and amazing teams to collaborate with.
 
 ## Skills
 
-### Self taught Skills
+### Personal Skills
+
+**Curious Quick learner**   
+I pick up on things quickly. It is probably why often in my career I was hired for A and ended up taking care of Z. Learning is all about motivation and curiosity is my strength. I always ask myself "What's next?" and "Can I know more?"  
+
+**Team player**   
+Behind the best outcomes there is always a collective effort. Collaboration pushes us out from our heads and forces us to consider different ways of looking at issues. There is a lot to learn from anyone.
+
+**Natural planner**   
+I have a talent for keeping the "big picture" clear, while breaking it down in actionable pieces. A characteristic that led me to managing even though I never pictured myself in the role before start working.
+
+**Researcher**  
+A passion for research in any field helped not just my academic career, but also my strategic and creative thinking in work and life. Making informed decisions and being aware of current trends.
+
+**Problem solver**   
+My motto is "Stop talking, Start doing".    
+I feel comfortable with uncertainty because is raw material: everything is possible. Wherever there is a problem there is a path to an exciting solution to be found.
+
+**Dots-connector**  
+I am good at finding novel connections between different domains and disciplines. It is the way to innovation I believe, and cross-pollination, listening to as many voices as possible in the process, is key.
+
+### Self taught Skills   
+
+During my BA I spent time learning graphic and web design online. An hobby that led to my first steps into freelancing for charities and organisations such as the Italian Red Cross.
 
 - Adobe CS:
   - Illustrator
@@ -31,30 +45,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 - UX
 - Responsive design
 - 3D printing
-
-### Personal Skills
-
-**Curious**   
-**Quick learner**   
-**Team player**   
-**Natural planner**   
-**Researcher**  
-**Problem solver**   
-**Dot-connector**  
-
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Professional Experience
 
@@ -103,7 +93,7 @@ London, UK
 (February 2011 to June 2011)   
 *Media Planner*   
 Defining "walled gardens" for Ads campaigns.
-Ideation and Implementation of presentations for clients and investors.   
+Realisation of business presentations for clients and investors.   
 
 ## Education
 
@@ -152,7 +142,7 @@ Manchester, UK
 
 ## Interests
 
-Technology, Making, Internet of Things, Meditation & Yoga, Circular Economy & Zero Waste, Hiking, Traveling, Storytelling.
+Technology, Robotics, DIY, Internet of Things, Meditation & Yoga, Circular Economy & Zero Waste, Hiking, Traveling, Storytelling.
 
 ## Contacts
 
