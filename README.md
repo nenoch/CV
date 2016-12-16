@@ -59,24 +59,51 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Professional Experience
 
 **Unlimited Lab LTD**     
-London, UK (June 2016 to Present)    
-*Founder and MD*
+London, UK   
+(June 2016 to Present)    
+*Founder and MD*   
+Working on a innovative product for 3D printing.   
+Setting long-term business strategy, managing brand, team, product and financials.
 
 **Togada Studio**    
-London, UK (January 2016 to June 2016)   
-*Head of Digital and UX*
+London, UK    
+(January 2016 to June 2016)   
+*Head of Digital and UX*   
+Implementing operations and communication management. Facilitating the opening of the new Web department, supporting the Design, Marketing and R&D departments.
 
 **Designer and Project Manager**   
-Padua, Italy | Shanghai, China | London, UK (February 2013 to January 2016)    
+Padua, Italy | Shanghai, China | London, UK    
+(February 2013 to January 2016)    
 *Freelancer*  
+Brand and Product Management. From building and facilitating creative and IT teams, to setting up effective strategies.
+
+- Web Marketing
+- E-commerce
+- Web Design and Development
+- Social Media
+- Corporate identity
+- Brand Awareness
+- Digital Strategy
+- User and Market Research
 
 **yousporty.com**   
-Padua, Italy (July 2011 to February 2013)   
-*Web Marketing Assistant*
+Padua, Italy   
+(July 2011 to February 2013)   
+*Web Marketing Assistant*   
+Connecting Marketing and Web Development departments.
+- CRM
+- Graphic and Web Design
+- Visual Identity and Branding
+- Web and Social Media Marketing
+- Direct Mailing
+- Performance-based digital marketing networks
 
 **Thisisiconic**   
-London, UK (February 2011 to June 2011)   
-*Media Planning*   
+London, UK    
+(February 2011 to June 2011)   
+*Media Planner*   
+Defining "walled gardens" for Ads campaigns.
+Ideation and Implementation of presentations for clients and investors.   
 
 ## Education
 
