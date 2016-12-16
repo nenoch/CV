@@ -3,36 +3,36 @@
 After years working  as a Project Manager - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker.   
 I like making things real, from ideation to implementation. I like telling stories, and I love visual and product design, coding, hardware and 3D printing, but also project management and iterative development.   
 
-Internet has always been my natural environment. The digital world is a place where one can build and see ideas grow and spread quickly. I started my own business because I believe it is possible to bring the same flexibility offline and make an impact.
+Internet has always been my natural environment. The digital world is a place where one can build and see ideas grow and spread quickly. I started my own business because I believe it is possible to bring the same flexibility offline and have an impact.
 
-I love traveling, I lived and worked in Italy, China and UK meeting many inspiring individuals. I am looking for innovative and interesting projects and amazing teams to collaborate with.
+I love travelling, I lived and worked in Italy, China and the UK where I have met many inspiring individuals. I am looking for innovative and interesting projects and amazing teams to collaborate with.
 
 ## Skills
 
 ### Personal Skills
 
 **Curious Quick learner**   
-I pick up on things quickly. It is probably why often in my career I was hired for A and ended up taking care of Z. Learning is all about motivation and curiosity is my strength. I always ask myself "What's next?" and "Can I know more?"  
+I pick up on things quickly. It is probably why in my career I was often hired to do A and ended up taking care of Z. Learning is all about motivation, and curiosity is my strength. I always ask myself "What's next?" and "Can I know more?"  
 
 **Team player**   
-Behind the best outcomes there is always a collective effort. Collaboration pushes us out from our heads and forces us to consider different ways of looking at issues. There is a lot to learn from anyone.
+Behind the best outcomes there is always a collective effort. Collaboration pushes us out of our heads and forces us to consider different ways of looking at issues. There is a lot to learn from anyone.
 
 **Natural planner**   
-I have a talent for keeping the "big picture" clear, while breaking it down in actionable pieces. A characteristic that led me to managing even though I never pictured myself in the role before start working.
+I have a talent for keeping the "big picture" clear, while breaking it down in actionable pieces. A characteristic that has led me to managing positions even though I never pictured myself in this role before I started working.
 
 **Researcher**  
-A passion for research in any field helped not just my academic career, but also my strategic and creative thinking in work and life. Making informed decisions and being aware of current trends.
+My passion for research in any field has helped not just my academic career, but also my strategic and creative thinking in work and life when making informed decisions and being aware of current trends.
 
 **Problem solver**   
 My motto is "Stop talking, Start doing".    
-I feel comfortable with uncertainty because is raw material: everything is possible. Wherever there is a problem there is a path to an exciting solution to be found.
+I feel comfortable with uncertainty because it is raw material: everything is possible. Wherever there is a problem, there is a path to an exciting solution to be found.
 
 **Dots-connector**  
 I am good at finding novel connections between different domains and disciplines. It is the way to innovation I believe, and cross-pollination, listening to as many voices as possible in the process, is key.
 
 ### Self taught Skills   
 
-During my BA I spent time learning graphic and web design online. An hobby that led to my first steps into freelancing for charities and organisations such as the Italian Red Cross.
+During my BA, I spent time learning graphic and web design online. A hobby that led to my first steps into freelancing for charities and organisations such as the Italian Red Cross.
 
 - Adobe CS:
   - Illustrator
@@ -52,8 +52,8 @@ During my BA I spent time learning graphic and web design online. An hobby that 
 London, UK   
 (June 2016 to Present)    
 *Founder and MD*   
-Working on a innovative product for 3D printing.   
-Setting long-term business strategy, managing brand, team, product and financials.
+Working on an innovative product for 3D printing.   
+Setting a long-term business strategy, managing brand, team, product and financials.
 
 **Togada Studio**    
 London, UK    
@@ -92,8 +92,8 @@ Connecting Marketing and Web Development departments.
 London, UK    
 (February 2011 to June 2011)   
 *Media Planner*   
-Defining "walled gardens" for Ads campaigns.
-Realisation of business presentations for clients and investors.   
+Defining "walled gardens" for Ad campaigns.
+Creation of business presentations for clients and investors.   
 
 ## Education
 
@@ -142,13 +142,11 @@ Manchester, UK
 
 ## Interests
 
-Technology, Robotics, DIY, Internet of Things, Meditation & Yoga, Circular Economy & Zero Waste, Hiking, Traveling, Storytelling.
+Technology, Robotics, DIY, Internet of Things, Meditation & Yoga, Circular Economy & Zero Waste, Hiking, Travelling, Storytelling.
 
 ## Contacts
 
 **linkedIn | [uk.linkedin.com/in/irenecanuti/en](https://uk.linkedin.com/in/irenecanuti/en
 )**   
 **twitter | [@irenecanuti_tro ](https://twitter.com/irenecanuti_tro
-)**   
-**email |  [irene@unlab.co.uk](mailto:irene@unlab.co.uk
 )**
