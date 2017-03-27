@@ -1,11 +1,18 @@
 ## Irene Canuti
 
-After years working  as a Project Manager - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker.   
-I like making things real, from ideation to implementation. I like telling stories, and I love visual and product design, coding, hardware and 3D printing, but also project management and iterative development.   
+After working as a Project Manager - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker. I like making things real, from ideation to implementation. I like listening and telling stories, and I love communication design, coding, hardware and 3D printing, and also product development and iterative development.   
 
-Internet has always been my natural environment. The digital world is a place where one can build and see ideas grow and spread quickly. I started my own business because I believe it is possible to bring the same flexibility offline and have an impact.
+The digital world is a place where one can see products evolve, and ideas grow and spread quickly. I joined Makers Academy because I want to be part of this world with what I design and build every day.
 
-I love travelling, I lived and worked in Italy, China and the UK where I have met many inspiring individuals. I am looking for innovative and interesting projects and amazing teams to collaborate with.
+I love travelling, I lived and worked in Italy, China and the UK. I am now looking for interesting projects and amazing teams working with emerging technologies.
+
+**Technologies**       
+Ruby, Rails, Javascript, Node.js, Express, HTML5, Bootstrap, jQuery, AWS, PostgreSQL, dynamoDB  
+_Coming soon |_
+React.js, WebSockets, Phyton, MongoDB and more...      
+
+**Testing frameworks**       
+Rspec, Jasmine, Mocha, Chai
 
 ## Skills
 
@@ -40,26 +47,30 @@ During my BA, I spent time learning graphic and web design online. A hobby that 
   - InDesign
 - HTML
 - CSS
-- JQuery
 - Wordpress
 - UX
 - Responsive design
-- 3D printing
+- 3D printing and digital fabrication
 
 ## Professional Experience
 
 **Unlimited Lab LTD**     
 London, UK   
-(June 2016 to Present)    
+(June 2016 to March 2017)    
 *Founder and MD*   
 Working on an innovative product for 3D printing.   
 Setting a long-term business strategy, managing brand, team, product and financials.
+
+**Guest lecturer**     
+London, UK   
+(October 2016 to November 2016)     
+Lectures and workshops in rapid-prototyping and lean startup at UAL and Kingston University.
 
 **Togada Studio**    
 London, UK    
 (January 2016 to June 2016)   
 *Head of Digital and UX*   
-Implementing operations and communication management. Facilitating the opening of the new Web department, supporting the Design, Marketing and R&D departments.
+Implementing operations and communication management. Supporting the Design, Marketing and R&D departments.
 
 **Designer and Project Manager**   
 Padua, Italy | Shanghai, China | London, UK    
@@ -69,10 +80,9 @@ Brand and Product Management. From building and facilitating creative and IT tea
 
 - Web Marketing
 - E-commerce
-- Web Design and Development
+- Web Design
 - Social Media
-- Corporate identity
-- Brand Awareness
+- Brand identity
 - Digital Strategy
 - User and Market Research
 
@@ -99,12 +109,12 @@ Creation of business presentations for clients and investors.
 
 #### Makers Academy (November 2016 to March 2017)
 
-- Curiosity and hungry passion for code
+- Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, MVC
+- Pair programming
+- XP Values and Agile methodologies
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
 #### Kingston University (September 2014 to January 2016)
 *MA Communication Design & the Creative Economy*
