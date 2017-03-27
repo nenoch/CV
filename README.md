@@ -7,7 +7,7 @@ The digital world is a place where one can see products evolve, and ideas grow 
 I love travelling, I lived and worked in Italy, China and the UK. I am now looking for interesting projects and amazing teams working with emerging technologies.
 
 **Technologies**       
-Ruby, Rails, Javascript, Node.js, Express, HTML5, Bootstrap, jQuery, AWS, PostgreSQL, dynamoDB  
+Ruby, Rails, Javascript, Node.js, Express, HTML5, Bootstrap, jQuery, AWS, PostgreSQL, dynamoDB, Alexa SDK  
 _Coming soon |_
 React.js, WebSockets, Phyton, MongoDB and more...      
 
