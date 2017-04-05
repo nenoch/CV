@@ -11,7 +11,7 @@ I love travelling, I lived and worked in Italy, China and the UK. I am now looki
 For a complete list, see my [GitHub](https://github.com/nenoch?tab=repositories).
 
 | Description        | Technologies           | Testing framework  | Link |
-| ------------------ |:----------------------:| :------------------:|
+| ------------------ |:----------------------:| :------------------:| :----: |
 | **Makers Rooms** : an Alexa Skill to manage bookings |JS, Node.js, Alexa SDK, AWS, dynamoDB          | Alexa App Server, Mocha, Chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/Alexa-book-events)|
 | **CapyBnB** : an Airbnb copy... with a twist. |Ruby, Sinatra, Bootstrap, PostgreSQL   | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/makers-bnb)|
 | **Instapics** : Instagram clone |Ruby, Rails, AWS S3 Bucket  | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/instagram-challenge)|
