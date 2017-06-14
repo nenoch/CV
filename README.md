@@ -15,7 +15,8 @@ For a complete list, see my [GitHub](https://github.com/nenoch?tab=repositories)
 | **Makers Rooms** : an Alexa Skill to manage bookings |JS, Node.js, Alexa SDK, AWS, dynamoDB          | Alexa App Server, Mocha, Chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/Alexa-book-events)|
 | **CapyBnB** : an Airbnb copy... with a twist. |Ruby, Sinatra, Bootstrap, PostgreSQL   | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/makers-bnb)|
 | **Instapics** : Instagram clone |Ruby, Rails, AWS S3 Bucket  | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/instagram-challenge)|
-| **tic-tac-toe** : a simple tic-tac-toe game  |JS, jQuery, HTML5, Bootstrap  | Jasmine | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/tic-tac-toe)|
+| **Minimax tic-tac-toe** : Tic-tac-toe game with an unbeatable computer as optional player. |JS, jQuery, HTML5, Bootstrap  | Jasmine | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/minimax-tic-tac-toe)|
+| **Mood search** : A React web app. Type in a string and find out how Happy you are. |React, Webpack, Node.js, HTML5/CSS, Bootstrap, FontAwesome | - | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/mood-search)|
 
 ## Skills
 
@@ -52,7 +53,7 @@ Technology, Robotics, DIY, Internet of Things, UX and UI, Meditation & Yoga, Cir
 London, UK   
 (June 2016 to March 2017)    
 *Founder and MD*   
-Working on an innovative product for 3D printing.
+Developing an innovative product for 3D printing. Mainly taking care of operations, brand and product management with a focus on HCD.
 
 **Guest lecturer**     
 London, UK   
