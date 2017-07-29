@@ -49,6 +49,12 @@ Technology, Robotics, DIY, Internet of Things, UX and UI, Meditation & Yoga, Cir
 
 ## Professional Experience
 
+**Cognizant**     
+London, UK   
+(May 2017 to August 2017)    
+*Programmer Analyst - Full Stack*   
+Developing a Proof of Concept in Angular 4 and D3.js
+
 **Unlimited Lab LTD**     
 London, UK   
 (June 2016 to March 2017)    
