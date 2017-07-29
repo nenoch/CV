@@ -23,25 +23,25 @@ For a complete list, see my [GitHub](https://github.com/nenoch?tab=repositories)
 ### Personal Skills
 
 **Curious Quick learner**   
-I pick up on things quickly. During a 2 weeks Alexa Skill project I embraced a whole new tech stack, learning and implementing solutions on the go. Also, during my BA I spent time learning graphic and web design online. A hobby that led to my first steps into freelancing for charities and organisations such as the Italian Red Cross. Curiosity is my strength. I always ask myself "What's next?" and "Can I know more?"  
+I pick up on things quickly. During the Alexa Skill project I embraced a whole new tech stack in 2 weeks, learning and implementing solutions on the go. Also, during my BA I learned graphic and web design online. A hobby that led me to freelance for charities and organisations such as the Italian Red Cross.
 
 **Team player**   
-Behind the best outcomes there is always a collective effort. I encouraged all the teams I worked with to try out things and have discussions around validated learning. Collaboration forces us to consider different ways of looking at issues, and it can be tough when there are different skill levels and personalities in the room. I like acting as a facilitator as I did during my time at MA. There is a lot to learn from anyone.
+Collaboration forces us to consider different ways of looking at issues. It can be tough when there are different skill levels and personalities in the room, so I found trying out things and have honest discussions around validated learning to be a gamechanger.
 
 **Natural planner**   
-I have a talent for keeping the "big picture" clear, while breaking it down into actionable pieces. During Unlimited Lab's R&D phase I was able to break down tasks, anticipate challenges and time frames for the development of the product, at the same time communicating effectively with the team and adapting the overall plan based on findings and feedback.
+During Unlimited Lab's R&D phase I was able to break down tasks, anticipate challenges and time frames for the development of the product, at the same time communicating effectively with the team and adapting the overall plan based on findings and feedback.
 
 **Researcher**  
-My passion for research in any field has helped not just my academic career, but also my strategic and creative thinking in work and life when making informed decisions. As a Guest Lecturer in a Business School I had to challenge the general perception of what is the purpose of a startup: "create a company and sell it to google". I was able to find resources from different sectors to support a more qualitative, impactful and value-driven approach to doing business.
+My passion for research in any field has always helped my strategic and creative thinking in work and life when making informed decisions. As a Guest Lecturer in a Business School I was able to find resources to support a more qualitative, impactful and value-driven approach to doing business.
 
 **Dots-connector**  
-I am good at finding novel connections between different domains and disciplines. It is the way to innovation I believe, and cross-pollination, listening to as many voices as possible in the process, is key. Working on Togada Studio's internal communication I was able to gather feedback and re-evaluate their value proposition. I helped the founders find their real fit to market pivoting towards a different business model that also improved the overall happiness of their team.
+I am good at finding connections between different domains and disciplines. It is the way to innovation I believe. At Togada Studio, I helped the founders find their real fit to market pivoting towards a different business model, also improving the overall happiness of their team.
 
 **Problem solver**   
-My motto is "Stop talking, Start doing". I feel comfortable with uncertainty because it is raw material: everything is possible. Wherever there is a problem, there is a path to an exciting solution to be found. For example, when developing a 3D printed gadget for an upcycling project involving jars, I helped the lead designer rethinking the structure to be self-supportive, thus saving material and printing time. The result turned out to also improve the appearance of the product giving it a distinctive curvy design.
+I feel comfortable with uncertainty because it is raw material: everything is possible. For example, when developing a 3D printed gadget, I helped the lead designer rethinking the structure to be self-supportive, thus saving material and printing time and also giving the object a distinctive design.
 
 **Adaptive**  
-I adapt quickly based on needs. As an example, I was hired as Web Marketing Assistant at yousporty.com but when I left I was actually project managing their web development team and working on the front-end myself. Also, when I had the chance to work in China for a client looking into a market expansion it took me just 2 months to plan and move.
+I adapt quickly based on needs. As an example, I was hired as Web Marketing Assistant at yousporty.com but when I left I was actually organizing the day-to-day work of their web development team.
 
 ## Interests
 
