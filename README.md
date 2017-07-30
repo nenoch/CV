@@ -43,6 +43,9 @@ I feel comfortable with uncertainty because it is raw material: everything is po
 **Adaptive**  
 I adapt quickly based on needs. As an example, I was hired as Web Marketing Assistant at yousporty.com but when I left I was actually organizing the day-to-day work of their web development team.
 
+**"Carer"**  
+I care about the quality of the code I write, I care about the people I work with, I care about business and users’ needs, and I care about the value I can deliver doing what I love the best way possible.
+
 ## Interests
 
 Technology, Robotics, DIY, Internet of Things, UX and UI, Meditation & Yoga, Circular Economy & Zero Waste, Hiking, Travelling, Storytelling.
@@ -57,7 +60,7 @@ Developing a Proof of Concept in Angular 4 and D3.js
 
 **Unlimited Lab LTD**     
 London, UK   
-(June 2016 to March 2017)    
+(June 2016 to April 2017)    
 *Founder and MD*   
 Developing an innovative product for 3D printing. Mainly taking care of operations, brand and product management with a focus on HCD.
 
