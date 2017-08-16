@@ -1,22 +1,21 @@
 ## Irene Canuti
 
-After working as a Project Manager - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker. I like making things real, from ideation to implementation. I like listening and telling stories, and I love communication design, coding, hardware and 3D printing, and also product development and iterative development.   
+After managing projects in branding and product development - juggling between Tech, Design and Marketing - I realised something very simple: I am a Maker. I like making things real, from ideation to implementation. The digital world is a place where one can see products evolve, and ideas grow quickly. I want to be part of this world with what I design and build every day. I have a passion for UX and Human Centred Design, and hands-on experience with communication design, programming, hardware, 3D printing and iterative development.
 
-The digital world is a place where one can see products evolve, and ideas grow and spread quickly. I joined Makers Academy because I want to be part of this world with what I design and build every day.
-
-I love travelling, I lived and worked in Italy, China and the UK. I am now looking for interesting projects and amazing teams to work with.
+I lived and worked in Italy, China and the UK. I am now looking for interesting projects and amazing teams to work with.
 
 ### Projects
 
 For a complete list, see my [GitHub](https://github.com/nenoch?tab=repositories).
 
-| Description        | Technologies           | Testing framework  | Link |
+| Description        | Technologies           | Testing  | Link |
 | ------------------ |:----------------------:| :------------------:| :----: |
 | **Makers Rooms** : an Alexa Skill to manage bookings |JS, Node.js, Alexa SDK, AWS, dynamoDB          | Alexa App Server, Mocha, Chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/Alexa-book-events)|
-| **CapyBnB** : an Airbnb copy... with a twist. |Ruby, Sinatra, Bootstrap, PostgreSQL   | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/makers-bnb)|
-| **Instapics** : Instagram clone |Ruby, Rails, AWS S3 Bucket  | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/instagram-challenge)|
+| **Arya Stark's List** : A React app. Add names, Kill or Resuscitate. |React, Redux, Node.js, HTML5/CSS, Bootstrap, FontAwesome | Jest, enzyme, selenium, WebdriverIO, chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/react-arya-stark-list)|
 | **Minimax tic-tac-toe** : Tic-tac-toe game with an unbeatable computer as optional player. |JS, jQuery, HTML5, Bootstrap  | Jasmine | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/minimax-tic-tac-toe)|
 | **Mood search** : A React web app. Type in a string and find out how Happy you are. |React, Webpack, Node.js, HTML5/CSS, Bootstrap, FontAwesome | - | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/mood-search)|
+| **Instapics** : Instagram clone |Ruby, Rails, AWS S3 Bucket  | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/instagram-challenge)|
+| **CapyBnB** : an Airbnb copy... with a twist. |Ruby, Sinatra, Bootstrap, PostgreSQL   | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/makers-bnb)|
 
 ## Skills
 
