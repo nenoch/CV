@@ -11,7 +11,7 @@ For a complete list, see my [GitHub](https://github.com/nenoch?tab=repositories)
 | Description        | Technologies           | Testing  | Link |
 | ------------------ |:----------------------:| :------------------:| :----: |
 | **Makers Rooms** : an Alexa Skill to manage bookings |JS, Node.js, Alexa SDK, AWS, dynamoDB          | Alexa App Server, Mocha, Chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/Alexa-book-events)|
-| **Arya Stark's List** : A React app. Add names, Kill or Resuscitate. |React, Redux, Node.js, HTML5/CSS, Bootstrap, FontAwesome | Jest, enzyme, selenium, WebdriverIO, chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/react-arya-stark-list)|
+| **Arya Stark's List** : A React app. Add names, Kill or Resuscitate. |React, Redux, Node.js, HTML5/CSS, Bootstrap, FontAwesome | enzyme, selenium, WebdriverIO, chai | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/react-arya-stark-list)|
 | **Minimax tic-tac-toe** : Tic-tac-toe game with an unbeatable computer as optional player. |JS, jQuery, HTML5, Bootstrap  | Jasmine | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/minimax-tic-tac-toe)|
 | **Mood search** : A React web app. Type in a string and find out how Happy you are. |React, Webpack, Node.js, HTML5/CSS, Bootstrap, FontAwesome | - | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/mood-search)|
 | **Instapics** : Instagram clone |Ruby, Rails, AWS S3 Bucket  | RSpec, Capybara | [![Project's GitHub Repository](imgs/GitHub-Mark-64px.png)](https://github.com/nenoch/instagram-challenge)|
